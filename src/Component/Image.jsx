@@ -1,10 +1,10 @@
 import React from 'react';
-
+import logo from '../logo.svg'
 
 // Main React Skill Session Component
 const ReactSkillSession = () => (
   <div>
-    <h6>React Skill Session</h6>
+    <img src={logo} alt=""/>React Skill Session
    
   </div>
 );
